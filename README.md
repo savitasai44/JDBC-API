@@ -1,5 +1,5 @@
 <h1>JDBC API</h1><br>
-<h2>Java Database Connectivity </h2><br><br>
+<h2>Java Database Connectivity </h2><br>
 JDBC is also known as java database connectivity it is an API (Application Programming Languges).
 It present in java.sql package ,and used connect java application to the database by using JDBC Drivers.<br>
 <h3>JDBC Key Components :</h3>
@@ -10,7 +10,7 @@ It present in java.sql package ,and used connect java application to the databas
 5.PreparedStatement --> it is an interface , present in java.sql package<br>
 6.ResultSet  -->it is an interface ,present in java.sql package<br>
 <br>
-<h3>JDBC Connectivity Steps :</h3><br>
+<h3>JDBC Connectivity Steps :</h3>
 1.firstly we need to add the Jar( Mysql Connector 8)<br>
 2.Register and load the Driver Class using class.ForName("com.mysql.cj.jdbc.Driver");<br>
 3.Get jdbc connection .<br>
